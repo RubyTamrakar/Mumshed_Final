@@ -1,0 +1,15 @@
+
+
+.bg-dark {
+    background-color: #6eac43 !important;
+    background-image: url("/public/bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn-primary {
+    background-color: #fcbc3b !important;
+    border-color: #fcbc3b !important;
+}
